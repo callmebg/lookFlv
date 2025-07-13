@@ -1,0 +1,13 @@
+# 核心依赖
+construct==2.10.68
+flvlib==0.1.6
+moviepy==1.0.3
+pyqt5==5.15.9
+pyqtgraph==0.13.3
+
+# 可选依赖
+# tensorflow==2.19.0  # AI分析
+
+# 开发依赖
+pytest==7.4.0
+mypy==1.6.1
